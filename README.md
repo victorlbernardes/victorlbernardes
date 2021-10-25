@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ## I'm Victor
 
 🔭 I’m currently working on Back-End Developer at [@Zup](https://www.zup.com.br/)
+
 🌱 I’m currently learning Swift/iOS
 
 ![Victorlbernardes's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorlbernardes&theme=github_dark)
