@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 🚀 Software Engineer at [@Zup](https://www.zup.com.br/) 
 
-📱 I’m currently learning Swift/iOS
+📱 I’m currently learning ReactNative
 
 ![Victorlbernardes's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorlbernardes&theme=github_dark)
 
