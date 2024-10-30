@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## I'm Victor
 
-🚀 Software Engineer at [@Zup](https://www.zup.com.br/) 
+🚀 Software Engineer at [@Digibee](https://www.digibee.com) 
 
 📱 I’m currently learning ReactNative
 
