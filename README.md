@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 🚀 Software Engineer at [@Digibee](https://www.digibee.com) 
 
-📱 I’m currently learning ReactNative
+📱 I’m currently learning C ++
 
 ![Victorlbernardes's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorlbernardes&theme=github_dark)
 
