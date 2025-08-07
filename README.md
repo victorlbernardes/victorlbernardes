@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=victorlbernardes&theme=blue-green)](https://github.com/lvictorlbernardes/github-readme-stats)
 
-[![Victorlbernardes's github streak](https://github-readme-streak-stats.herokuapp.com/?user=victorlbernardes&theme=blue-green)](https://github.com/victorlbernardes/github-readme-streak-stats)
-
 ## Contact
 
 [![img](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-luiz-bernardes-da-silva-36bb53a3/)
