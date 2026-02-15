@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## I'm Victor
 
-🚀 Software Engineer at [@Digibee](https://www.digibee.com) 
+🚀 Software Engineer at [@ZUP](https://zup.com.br/) 
 
 📱 I’m currently learning C ++
 
