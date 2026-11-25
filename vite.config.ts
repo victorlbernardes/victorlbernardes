@@ -4,6 +4,6 @@ import react from '@vitejs/plugin-react';
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  // For user page https://<username>.github.io, base is '/'
-  base: '/',
+  // Use relative base so it works on https://<username>.github.io/<repo>/ and custom domains
+  base: './',
 });
