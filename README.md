@@ -13,8 +13,6 @@
   <b>Vitória / Serra - ES, Brazil • Open to Remote & Relocation Opportunities</b>
 </p>
 
-[🇺🇸 English Version](#-about-me) &nbsp;|&nbsp; [🇧🇷 Versão em Português](#-sobre-mim-versão-em-português)
-
 ---
 
 </div>
